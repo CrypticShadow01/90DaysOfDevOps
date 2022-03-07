@@ -20,4 +20,18 @@ Devops Roadmap :- https://roadmap.sh/devops
 
 ## Day 01- Learnings
 
-I started with 
+I started with my Udemy Course 'DevOps beginner to Advance' where I understand the real definition of **DevOps**. Devops is an idealogy which allow us to leverage certain tools in order to make the Software development lifecycle smooth and efficient. In simple terms, it is a method of making a siftware development cycle smooth and reduce the overhead of back and forth.
+
+Installed variety of tools and software in which I will be working on for some time:
+
+1. VirtualBox
+2. Chocolatey
+3. GitBash
+4. Vagrant
+5. AWS CLI
+6. Gcloud SDK
+
+Learnt alot about **Vagrant** and how to use it in order to Built and manage your VMs from command line. Wrote a blog about it too, Here it is -
+
+Understanding Vagrant : https://priyanshshrivastava.hashnode.dev/understanding-vagrant.
+
