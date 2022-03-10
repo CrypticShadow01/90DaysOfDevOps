@@ -10,3 +10,5 @@ I will be giving at least 1-1.5 hours a day towards this and will try to share a
 Day 01: 📈 > [Introduction](https://github.com/CrypticShadow01/90DaysOfDevOps/blob/main/Days/Day01.md).
 
 Day 02: 📈 > [Understanding Vagrant and Basic Linux Principle](https://github.com/CrypticShadow01/90DaysOfDevOps/blob/main/Days/Day%2002.md).
+
+Day 03 📈 > [Undestanding Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day03.md).
