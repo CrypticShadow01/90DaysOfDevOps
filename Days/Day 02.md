@@ -45,4 +45,4 @@ Share an additional folder to the guest VM. The first argument is# the path on t
 
 Enable provisioning with a shell script. Additional provisioners such as Ansible, Chef, Docker, Puppet and Salt are also available.
 
-Alongside this, I learn some basic Linux comands and File architecture. It was a prodcutive day overall.
+Alongside this, I learn some basic Linux comands. It was a prodcutive day overall.
