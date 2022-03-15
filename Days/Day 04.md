@@ -1,3 +1,5 @@
+## Understanding Vagrant and its configuration.
+
 Today, I dive deeper on 'Vagrant' and learned about 'Vagrantfile'. I watched this [Vagrant Crash Course](https://youtu.be/vBreXjkizgo) youtube video alongside my course. This video explains every component of the 'Vagrantfile' like (network, memory and OS).
 
  let me tell you about how to reach to your 'Vagrantfile'.
