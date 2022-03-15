@@ -7,10 +7,16 @@ I will be giving at least 1-1.5 hours a day towards this and will try to share a
 
 <hr>
 
-Day 01: 📈 > [Introduction](https://github.com/CrypticShadow01/90DaysOfDevOps/blob/main/Days/Day01.md).
+Day 01: 📈> [Introduction](https://github.com/CrypticShadow01/90DaysOfDevOps/blob/main/Days/Day01.md).
 
 ## Why DevOps? Understanding DevOps Principles.
 
-Day 02: 📈 > [Understanding DevOps Culture and Model](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day02.md).
+Day 02: 📈> [Understanding DevOps Culture and Model](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day02.md).
 
-Day 03 📈 > [Undestanding Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day03.md).
+Day 03 📈> [Role of a DevOps Engineer](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day03.md).
+
+## Understanding Vagrant and Linux.
+
+Day 04 📈> [Understanding Vagrant and its Configuration](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day%2004.md).
+
+Day 05 📈> [Started with Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day05.md).
