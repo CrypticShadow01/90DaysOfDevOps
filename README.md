@@ -11,6 +11,6 @@ Day 01: 📈 > [Introduction](https://github.com/CrypticShadow01/90DaysOfDevOps/
 
 ## Why DevOps? Understanding DevOps Principles.
 
-Day 02: 📈 > [Understanding DevOps Culture and Model](https://github.com/CrypticShadow01/90DaysOfDevOps/blob/main/Days/Day%2002.md).
+Day 02: 📈 > [Understanding DevOps Culture and Model](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day02.md).
 
 Day 03 📈 > [Undestanding Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day03.md).
