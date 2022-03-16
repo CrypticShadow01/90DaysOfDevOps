@@ -49,5 +49,9 @@ Now, that we understood the importance of Linux and how helpful it is for this j
 4. Suse Enterprise Linux.
 
 <hr>
-Resource: [Linux QwickStart](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Resources/Linux%2BQuickstart%2BV5.pdf).
-          [Code With Harry Linux Tutorial](https://youtu.be/_tCY-c-sPZc).
+
+Resource:
+
+[Linux QwickStart](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Resources/Linux%2BQuickstart%2BV5.pdf).
+
+[Code With Harry Linux Tutorial](https://youtu.be/_tCY-c-sPZc).
