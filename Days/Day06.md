@@ -1,4 +1,4 @@
-After understaning the directory structure and some basic commands I want to take a step bcak as the course does not actually talks much about the flavour of Linux and what is open source in general.
+After understaning the directory structure and some basic commands I want to take a step back as the course does not actually talks much about the flavour of Linux and what is open source in general.
 
 So, today I leaned about what **Open Source** is and how once can be a part of it and also read about various Linux flavours and editors.
 
