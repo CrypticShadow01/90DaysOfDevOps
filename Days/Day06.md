@@ -14,7 +14,6 @@ These free/open source software provides 4 foundatoional freedom which are:
 2. To study, analyse and even modiy the source code (ofcourse, you need to get the approval from the commuity for that)
 3. To redistribute the program
 4. To create further derivatives program from it.
-5. 
 <hr>
 
 ## Why Linux is Important in this Journey?
@@ -41,7 +40,7 @@ Now, that we understood the importance of Linux and how helpful it is for this j
 5. Debian
 6. OpenSuse
 
-### Popula Server Linux
+### Popular Server Linux
 
 1. Red Hat Enterprise Linux (RHEL)
 2. Ubuntu Server
