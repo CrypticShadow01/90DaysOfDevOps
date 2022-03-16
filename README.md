@@ -20,3 +20,5 @@ Day 03 📈> [Role of a DevOps Engineer](https://github.com/PriyanshShrivastava/
 Day 04 📈> [Understanding Vagrant and its Configuration](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day%2004.md).
 
 Day 05 📈> [Started with Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day05.md).
+
+Day 06  📈> [What is Open Source and Why Linux?](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day06.md).
