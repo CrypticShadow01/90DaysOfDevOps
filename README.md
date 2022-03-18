@@ -22,3 +22,5 @@ Day 04 📈> [Understanding Vagrant and its Configuration](https://github.com/Pr
 Day 05 📈> [Started with Linux](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day05.md).
 
 Day 06  📈> [What is Open Source and Why Linux?](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day06.md).
+
+Day 07 & 08 📈> [Linux commands and editors](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day07%2608.md).
