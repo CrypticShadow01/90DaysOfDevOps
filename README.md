@@ -24,3 +24,5 @@ Day 05 📈> [Started with Linux](https://github.com/PriyanshShrivastava/90DaysO
 Day 06  📈> [What is Open Source and Why Linux?](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day06.md).
 
 Day 07 & 08 📈> [Linux commands and editors](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day07%2608.md).
+
+Day 09 & 10 📈> [Hosting a website in Centos7 VM](https://github.com/PriyanshShrivastava/90DaysOfDevOps/blob/main/Days/Day09%2610.md).
